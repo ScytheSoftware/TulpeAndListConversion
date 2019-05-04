@@ -1,4 +1,4 @@
-#Davonte' Whitfield 11/14/18
+
 food_tuple = ("apple","Fries", "Pizza", "Chips", "Taco")
 
 new_list = list(food_tuple)
